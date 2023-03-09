@@ -84,3 +84,7 @@ a:hover {
     width: 95%;
   }
 }
+.parent {
+  display: flex;
+  flex-direction: column;
+}
